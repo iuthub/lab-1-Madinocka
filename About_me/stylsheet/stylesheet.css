@@ -1,0 +1,53 @@
+html, body{
+    width:100%;
+    height:100%;
+    padding:0;
+    margin:0;
+    background-color: #ebeeff;
+}
+.me{
+    font-family: "Lucida Calligraphy";
+    color: #000cb7;
+    padding:0;
+    margin:5px;
+}
+.me h4{
+    color: #3564a5;
+}
+.me span{
+    color: darkslategray;
+}
+.mood{
+    font-family: "Lucida Calligraphy";
+    color: #000cb7;
+    text-align: left;
+    flex-wrap: wrap;
+    margin:5px;
+}
+.mood h3{
+    color: #3564a5;
+}
+.movies{
+    font-family: "Lucida Calligraphy";
+    color: #000cb7;
+    margin:5px;
+}
+.movies ul{
+    color: #3564a5;
+}
+.neighbors{
+    font-family: "Lucida Calligraphy";
+    color: #000cb7;
+    margin:5px;
+}
+.neighbors ul{
+    color: #3564a5;
+}
+.subs{
+    font-family: "Lucida Calligraphy";
+    color: #000cb7;
+    margin:5px;
+}
+.subs ul{
+    color: #3564a5;
+}
